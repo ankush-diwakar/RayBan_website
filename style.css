@@ -1,11 +1,11 @@
 @font-face {
     font-family: 'gilroy';
-    src: url('/fonts/gilroy.ttf') format('truetype');
+    src: url('/fonts/gilroy.woff2');
 }
 
 @font-face {
     font-family: 'kajiro';
-    src: url('/fonts/kil.ttf') format('truetype');
+    src: url('/fonts/kil.woff2');
 }
 
 *{
